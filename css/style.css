@@ -1,0 +1,18 @@
+/*----------------------------------------------------------
+	Name:		jQuery Captioner
+	Code:		Matt Goucher : matt@mattgoucher.com
+----------------------------------------------------------*/
+.captioned {
+	display:block;
+	position:relative;
+}
+.captioned > .text {
+	background: none repeat scroll 0 0 #222222;
+	bottom: 0;
+	color: #FFFFFF;
+	font-family: 'Helvetica','arial';
+	left: 0;
+	margin: 10px;
+	padding: 4px 6px;
+	position: absolute;
+}
